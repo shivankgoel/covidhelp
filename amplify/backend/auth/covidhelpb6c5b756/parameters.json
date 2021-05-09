@@ -1,6 +1,6 @@
 {
     "identityPoolName": "covidhelpb6c5b756_identitypool_b6c5b756",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "covidhb6c5b756",
     "userPoolName": "covidhelpb6c5b756_userpool_b6c5b756",
     "autoVerifiedAttributes": [
